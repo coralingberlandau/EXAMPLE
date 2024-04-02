@@ -1,3 +1,3 @@
 #EXAMPLE
 
-Here I bring up a first example to run
+Here I bring up a first example to run and for testing.
